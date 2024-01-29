@@ -14,7 +14,7 @@ Data Visualization.
 
 2. Students with Score 3 are best performers. And as grade increases, Score decreases.
 
-3. Best performers are from city code 26 and Students from city code 75 get the lowest marks. There is the biggest difference in the marks of males and femals in city code 75.
+3. Best performers are from city code 26 and Students from city code 75 get the lowest marks. There is the biggest difference in the marks of males and females in city code 75.
 
 4. Male from city 75 get the lowest score in the SAT.
 
@@ -36,7 +36,7 @@ Data Visualization.
 
 13. City 31 have the second highest number of schools.
 
-14. City 75 have the third highest number of schools but SAT applicants from this city were minimum. Also note that Students from city 75 were also the least scorers. Indicating despite of havine lots schools in the city, Quality of education is poor.
+14. City 75 have the third highest number of schools but SAT applicants from this city were minimum. Also note that Students from city 75 were also the least scorers. Indicating despite of having lots schools in the city, Quality of education is poor.
 
 15. Number of students in every grade is almost same. Which is quite strange.
 
